@@ -2,7 +2,7 @@
   "dependencies": {
     "chalk": "2.0.0",
     "renovate": "16.0.0",
-    "react": "16.0.0",
+    "react": "16.8.6",
     "jest": "24.7.1",
     "left-pad": "1.0.0"
   },
