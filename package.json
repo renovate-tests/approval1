@@ -3,7 +3,7 @@
     "chalk": "2.0.0",
     "renovate": "16.0.0",
     "react": "16.0.0",
-    "jest": "1.0.0",
+    "jest": "0.1.40",
     "left-pad": "1.0.0"
   },
   "renovate": {
