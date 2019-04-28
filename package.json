@@ -4,7 +4,7 @@
     "left-pad": "1.0.0"
   },
   "renovate": {
-    "packageRules: [{
+    "packageRules": [{
       "packageNames": ["chalk"],
       "masterIssueApproval": true
     }]
